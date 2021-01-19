@@ -1,4 +1,4 @@
 main(){
-printf("Hello second git folder created locally");
+printf("Hello second git folder created");
 
 }
